@@ -1,0 +1,1 @@
+// URL Response Data Transfer Object
